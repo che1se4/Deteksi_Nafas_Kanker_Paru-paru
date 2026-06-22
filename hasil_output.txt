@@ -1,0 +1,1152 @@
+=====================================================
+ SISTEM OBSERVASI NAPAS BERBASIS AI
+ DETEKSI DINI KANKER PARU-PARU LEWAU AUDIO-SPEKTROGRAM
+=====================================================
+
+--- Memproses Kategori: KANKER ---
+
+[1] Membaca rekaman: BP33_Asthma,E W,P R M,43,F.wav
+    -> ✓ Konversi Spektrogram Selesai: BP33_Asthma,E W,P R M,43,F.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Berat
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: F_W_RUA.wav
+    -> ✓ Konversi Spektrogram Selesai: F_W_RUA.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Sedang
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: BP52_Lung Fibrosis,Crep,P L L,76,F.wav
+    -> ✓ Konversi Spektrogram Selesai: BP52_Lung Fibrosis,Crep,P L L,76,F.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Sedang
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: BP46_asthma,E W,P L U,41,F.wav
+    -> ✓ Konversi Spektrogram Selesai: BP46_asthma,E W,P L U,41,F.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Sedang
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: BP20_Asthma and lung fibrosis,C,A R M,90,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP20_Asthma and lung fibrosis,C,A R M,90,M.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: BP47_asthma,E W,P L M,60,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP47_asthma,E W,P L M,60,M.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: BP106_Asthma,E W,P L U,45,F.wav
+    -> ✓ Konversi Spektrogram Selesai: BP106_Asthma,E W,P L U,45,F.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: M_W_RMA.wav
+    -> ✓ Konversi Spektrogram Selesai: M_W_RMA.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Sedang
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: BP77_Asthma,E W,A R L,40,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP77_Asthma,E W,A R L,40,M.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Berat
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: BP38_Asthma,E W,P R M,38,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP38_Asthma,E W,P R M,38,M.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Ringan
+[4] Skor Risiko       : Pantau Berkala
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: BP22_BRON,Crep,P R U,24,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP22_BRON,Crep,P R U,24,M.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Berat
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: DP1_Asthma,I E W,P L L,70,M.wav
+    -> ✓ Konversi Spektrogram Selesai: DP1_Asthma,I E W,P L L,70,M.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Berat
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: BP3_Asthma,I E W,P L L R,50,F.wav
+    -> ✓ Konversi Spektrogram Selesai: BP3_Asthma,I E W,P L L R,50,F.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: M_W_RUA.wav
+    -> ✓ Konversi Spektrogram Selesai: M_W_RUA.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Berat
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: BP43_asthma,E W,P L M,15,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP43_asthma,E W,P L M,15,M.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Ringan
+[4] Skor Risiko       : Pantau Berkala
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: BP55_asthma,E W,P R U,72,F.wav
+    -> ✓ Konversi Spektrogram Selesai: BP55_asthma,E W,P R U,72,F.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Ringan
+[4] Skor Risiko       : Pantau Berkala
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: BP64_asthma,E W,P L U,60,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP64_asthma,E W,P L U,60,M.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Sedang
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: BP91_asthma,E W,P R U,43,F.wav
+    -> ✓ Konversi Spektrogram Selesai: BP91_asthma,E W,P R U,43,F.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Ringan
+[4] Skor Risiko       : Pantau Berkala
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: BP26_Lung Fibrosis,Crep,P,90,F.wav
+    -> ✓ Konversi Spektrogram Selesai: BP26_Lung Fibrosis,Crep,P,90,F.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Berat
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: M_W_LUA.wav
+    -> ✓ Konversi Spektrogram Selesai: M_W_LUA.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: BP104_Asthma,E W,P L U,45,F.wav
+    -> ✓ Konversi Spektrogram Selesai: BP104_Asthma,E W,P L U,45,F.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: BP1_Asthma,I E W,P L L,70,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP1_Asthma,I E W,P L L,70,M.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: 103_2b2_Ar_mc_LittC2SE.wav
+    -> ✓ Konversi Spektrogram Selesai: 103_2b2_Ar_mc_LittC2SE.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: BP17_COPD,E W,A R M,57,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP17_COPD,E W,A R M,57,M.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: BP21_BRON,Crep,P R L ,20,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP21_BRON,Crep,P R L ,20,M.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: BP110_COPD,E W,P L L,62,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP110_COPD,E W,P L L,62,M.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Berat
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: BP61_COPD,E W,P R L ,53,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP61_COPD,E W,P R L ,53,M.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Ringan
+[4] Skor Risiko       : Pantau Berkala
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: BP58_asthma,E W,P L M,40,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP58_asthma,E W,P L M,40,M.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Ringan
+[4] Skor Risiko       : Pantau Berkala
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: M_W_LMA.wav
+    -> ✓ Konversi Spektrogram Selesai: M_W_LMA.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: BP27_asthma,E W,P R M,53,F.wav
+    -> ✓ Konversi Spektrogram Selesai: BP27_asthma,E W,P R M,53,F.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: F_CC_RLA.wav
+    -> ✓ Konversi Spektrogram Selesai: F_CC_RLA.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: DP2_Asthma,E W,P L L R,52,F.wav
+    -> ✓ Konversi Spektrogram Selesai: DP2_Asthma,E W,P L L R,52,F.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: BP107_Asthma,E W,P L U,59,F.wav
+    -> ✓ Konversi Spektrogram Selesai: BP107_Asthma,E W,P L U,59,F.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: M_R_LMA.wav
+    -> ✓ Konversi Spektrogram Selesai: M_R_LMA.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: BP79_asthma,E W,A R U,46,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP79_asthma,E W,A R U,46,M.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Sedang
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: F_R_LUA.wav
+    -> ✓ Konversi Spektrogram Selesai: F_R_LUA.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: 104_1b1_Al_sc_Litt3200.wav
+    -> ✓ Konversi Spektrogram Selesai: 104_1b1_Al_sc_Litt3200.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Berat
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: BP53_asthma,E W,P R M,72,F.wav
+    -> ✓ Konversi Spektrogram Selesai: BP53_asthma,E W,P R M,72,F.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: BP24_heart failure,Crep,P R L ,76,F.wav
+    -> ✓ Konversi Spektrogram Selesai: BP24_heart failure,Crep,P R L ,76,F.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: BP28_BRON,Crep,P L U,68,F.wav
+    -> ✓ Konversi Spektrogram Selesai: BP28_BRON,Crep,P L U,68,F.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: M_R_LLA.wav
+    -> ✓ Konversi Spektrogram Selesai: M_R_LLA.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Berat
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: F_R_LMA.wav
+    -> ✓ Konversi Spektrogram Selesai: F_R_LMA.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: BP111_COPD,E W,P R L ,51,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP111_COPD,E W,P R L ,51,M.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Ringan
+[4] Skor Risiko       : Pantau Berkala
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: BP57_COPD,E W,P R L ,42,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP57_COPD,E W,P R L ,42,M.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Ringan
+[4] Skor Risiko       : Pantau Berkala
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: 106_2b1_Pl_mc_LittC2SE.wav
+    -> ✓ Konversi Spektrogram Selesai: 106_2b1_Pl_mc_LittC2SE.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: BP23_Lung Fibrosis,Crep,P R L ,50,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP23_Lung Fibrosis,Crep,P R L ,50,M.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: BP65_asthma,E W,P R L ,60,F.wav
+    -> ✓ Konversi Spektrogram Selesai: BP65_asthma,E W,P R L ,60,F.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Berat
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: BP44_asthma,E W,P R U,40,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP44_asthma,E W,P R U,40,M.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: BP25_copd,E W,P L L,76,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP25_copd,E W,P L L,76,M.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Berat
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: BP56_asthma,E W,P R M,56,F.wav
+    -> ✓ Konversi Spektrogram Selesai: BP56_asthma,E W,P R M,56,F.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Berat
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: BP62_COPD,E W,P L M,53,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP62_COPD,E W,P L M,53,M.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Ringan
+[4] Skor Risiko       : Pantau Berkala
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: BP80_asthma,E W,A L U,38,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP80_asthma,E W,A L U,38,M.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Berat
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: BP63_COPD,E W,P R L ,58,F.wav
+    -> ✓ Konversi Spektrogram Selesai: BP63_COPD,E W,P R L ,58,F.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Ringan
+[4] Skor Risiko       : Pantau Berkala
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: F_R_RLA.wav
+    -> ✓ Konversi Spektrogram Selesai: F_R_RLA.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Berat
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: BP78_Asthma,E W,P R M,20,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP78_Asthma,E W,P R M,20,M.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: BP12_Asthma,E W,P L L,50,F.wav
+    -> ✓ Konversi Spektrogram Selesai: BP12_Asthma,E W,P L L,50,F.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Berat
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: BP108_COPD,E W,P R L ,63,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP108_COPD,E W,P R L ,63,M.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: BP35_Asthma,E W,A R L,38,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP35_Asthma,E W,A R L,38,M.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Ringan
+[4] Skor Risiko       : Pantau Berkala
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: BP2_Asthma,E W,P L L R,52,F.wav
+    -> ✓ Konversi Spektrogram Selesai: BP2_Asthma,E W,P L L R,52,F.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: BP101_Asthma,E W,P L M,12,F.wav
+    -> ✓ Konversi Spektrogram Selesai: BP101_Asthma,E W,P L M,12,F.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Ringan
+[4] Skor Risiko       : Pantau Berkala
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+--- Memproses Kategori: NORMAL ---
+
+[1] Membaca rekaman: BP75_N,N,P L U,73,F.wav
+    -> ✓ Konversi Spektrogram Selesai: BP75_N,N,P L U,73,F.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: 202_1b1_Ar_sc_Meditron.wav
+    -> ✓ Konversi Spektrogram Selesai: 202_1b1_Ar_sc_Meditron.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Sedang
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: BP31_N,N,P L M,27,F.wav
+    -> ✓ Konversi Spektrogram Selesai: BP31_N,N,P L M,27,F.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Sedang
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: 224_1b2_Al_sc_Meditron.wav
+    -> ✓ Konversi Spektrogram Selesai: 224_1b2_Al_sc_Meditron.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: BP74_N,N,P R M,74,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP74_N,N,P R M,74,M.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: BP51_N,N,P L M,30,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP51_N,N,P L M,30,M.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: 179_1b1_Al_sc_Meditron.wav
+    -> ✓ Konversi Spektrogram Selesai: 179_1b1_Al_sc_Meditron.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: BP72_N,N,P R U,24,F.wav
+    -> ✓ Konversi Spektrogram Selesai: BP72_N,N,P R U,24,F.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Berat
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: 225_1b1_Pl_sc_Meditron.wav
+    -> ✓ Konversi Spektrogram Selesai: 225_1b1_Pl_sc_Meditron.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Berat
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: 159_1b1_Pr_sc_Meditron.wav
+    -> ✓ Konversi Spektrogram Selesai: 159_1b1_Pr_sc_Meditron.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Ringan
+[4] Skor Risiko       : Pantau Berkala
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: BP70_N,N,P L U,52,F.wav
+    -> ✓ Konversi Spektrogram Selesai: BP70_N,N,P L U,52,F.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: 127_1b1_Ar_sc_Meditron.wav
+    -> ✓ Konversi Spektrogram Selesai: 127_1b1_Ar_sc_Meditron.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: 182_1b1_Tc_sc_Meditron.wav
+    -> ✓ Konversi Spektrogram Selesai: 182_1b1_Tc_sc_Meditron.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Berat
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: 217_1b1_Tc_sc_Meditron.wav
+    -> ✓ Konversi Spektrogram Selesai: 217_1b1_Tc_sc_Meditron.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: 208_1b1_Ll_sc_Meditron.wav
+    -> ✓ Konversi Spektrogram Selesai: 208_1b1_Ll_sc_Meditron.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Ringan
+[4] Skor Risiko       : Pantau Berkala
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: BP76_N,N,A L U,31,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP76_N,N,A L U,31,M.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Ringan
+[4] Skor Risiko       : Pantau Berkala
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: 183_1b1_Tc_sc_Meditron.wav
+    -> ✓ Konversi Spektrogram Selesai: 183_1b1_Tc_sc_Meditron.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: 179_1b1_Tc_sc_Meditron.wav
+    -> ✓ Konversi Spektrogram Selesai: 179_1b1_Tc_sc_Meditron.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: 194_1b1_Pr_sc_Meditron.wav
+    -> ✓ Konversi Spektrogram Selesai: 194_1b1_Pr_sc_Meditron.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: 171_1b1_Al_sc_Meditron.wav
+    -> ✓ Konversi Spektrogram Selesai: 171_1b1_Al_sc_Meditron.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: 159_1b1_Ar_sc_Meditron.wav
+    -> ✓ Konversi Spektrogram Selesai: 159_1b1_Ar_sc_Meditron.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: 159_1b1_Ll_sc_Meditron.wav
+    -> ✓ Konversi Spektrogram Selesai: 159_1b1_Ll_sc_Meditron.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: 183_1b1_Pl_sc_Meditron.wav
+    -> ✓ Konversi Spektrogram Selesai: 183_1b1_Pl_sc_Meditron.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Berat
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: 143_1b1_Al_sc_Meditron.wav
+    -> ✓ Konversi Spektrogram Selesai: 143_1b1_Al_sc_Meditron.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: BP81_N,N,P L U,33,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP81_N,N,P L U,33,M.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Ringan
+[4] Skor Risiko       : Pantau Berkala
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: 144_1b1_Al_sc_Meditron.wav
+    -> ✓ Konversi Spektrogram Selesai: 144_1b1_Al_sc_Meditron.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Sedang
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: BP71_N,N,P R U,36,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP71_N,N,P R U,36,M.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: 224_1b1_Tc_sc_Meditron.wav
+    -> ✓ Konversi Spektrogram Selesai: 224_1b1_Tc_sc_Meditron.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Berat
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: 184_1b1_Ar_sc_Meditron.wav
+    -> ✓ Konversi Spektrogram Selesai: 184_1b1_Ar_sc_Meditron.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Sedang
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: 187_1b1_Ll_sc_Meditron.wav
+    -> ✓ Konversi Spektrogram Selesai: 187_1b1_Ll_sc_Meditron.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: F_N_LUA.wav
+    -> ✓ Konversi Spektrogram Selesai: F_N_LUA.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Sedang
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: 194_1b1_Lr_sc_Meditron.wav
+    -> ✓ Konversi Spektrogram Selesai: 194_1b1_Lr_sc_Meditron.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Berat
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: 123_1b1_Al_sc_Meditron.wav
+    -> ✓ Konversi Spektrogram Selesai: 123_1b1_Al_sc_Meditron.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: 121_1b1_Tc_sc_Meditron.wav
+    -> ✓ Konversi Spektrogram Selesai: 121_1b1_Tc_sc_Meditron.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Berat
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: F_N_LLA.wav
+    -> ✓ Konversi Spektrogram Selesai: F_N_LLA.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Ringan
+[4] Skor Risiko       : Pantau Berkala
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: M_N_LMA.wav
+    -> ✓ Konversi Spektrogram Selesai: M_N_LMA.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: BP50_N,N,P R L ,27,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP50_N,N,P R L ,27,M.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: BP49_N,N,P R M,21,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP49_N,N,P R M,21,M.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Sedang
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: M_N_LLA.wav
+    -> ✓ Konversi Spektrogram Selesai: M_N_LLA.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: 209_1b1_Tc_sc_Meditron.wav
+    -> ✓ Konversi Spektrogram Selesai: 209_1b1_Tc_sc_Meditron.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Ringan
+[4] Skor Risiko       : Pantau Berkala
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: F_N_LMA.wav
+    -> ✓ Konversi Spektrogram Selesai: F_N_LMA.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: 152_1b1_Al_sc_Meditron.wav
+    -> ✓ Konversi Spektrogram Selesai: 152_1b1_Al_sc_Meditron.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: 125_1b1_Tc_sc_Meditron.wav
+    -> ✓ Konversi Spektrogram Selesai: 125_1b1_Tc_sc_Meditron.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Ringan
+[4] Skor Risiko       : Pantau Berkala
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: BP32_N,N,A R L,30,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP32_N,N,A R L,30,M.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Sedang
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: BP48_N,N,P L U,31,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP48_N,N,P L U,31,M.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Ringan
+[4] Skor Risiko       : Pantau Berkala
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: 102_1b1_Ar_sc_Meditron.wav
+    -> ✓ Konversi Spektrogram Selesai: 102_1b1_Ar_sc_Meditron.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Berat
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: M_N_LUA.wav
+    -> ✓ Konversi Spektrogram Selesai: M_N_LUA.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Berat
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: BP73_N,N,P L L,32,M.wav
+    -> ✓ Konversi Spektrogram Selesai: BP73_N,N,P L L,32,M.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Ringan
+[4] Skor Risiko       : Pantau Berkala
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: F_N_RMA.wav
+    -> ✓ Konversi Spektrogram Selesai: F_N_RMA.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: M_N_RLA.wav
+    -> ✓ Konversi Spektrogram Selesai: M_N_RLA.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: M_N_RUA.wav
+    -> ✓ Konversi Spektrogram Selesai: M_N_RUA.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: 159_1b1_Al_sc_Meditron.wav
+    -> ✓ Konversi Spektrogram Selesai: 159_1b1_Al_sc_Meditron.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: 153_1b1_Al_sc_Meditron.wav
+    -> ✓ Konversi Spektrogram Selesai: 153_1b1_Al_sc_Meditron.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: 126_1b1_Al_sc_Meditron.wav
+    -> ✓ Konversi Spektrogram Selesai: 126_1b1_Al_sc_Meditron.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Sedang
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: 214_1b1_Ar_sc_Meditron.wav
+    -> ✓ Konversi Spektrogram Selesai: 214_1b1_Ar_sc_Meditron.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: BP30_N,N,P R M,18,F.wav
+    -> ✓ Konversi Spektrogram Selesai: BP30_N,N,P R M,18,F.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: F_N_RUA.wav
+    -> ✓ Konversi Spektrogram Selesai: F_N_RUA.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Sedang
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: 136_1b1_Ar_sc_Meditron.wav
+    -> ✓ Konversi Spektrogram Selesai: 136_1b1_Ar_sc_Meditron.png
+[2] Hasil Analisis AI : Tidak Ada Pola Anomali
+[4] Skor Risiko       : Aman / Normal
+[5] Rekomendasi Klinis:
+   - Tidak perlu rujukan.
+   - Lanjut monitor kondisi kesehatan napas secara berkala.
+----------------------------------------
+
+[1] Membaca rekaman: M_N_RMA.wav
+    -> ✓ Konversi Spektrogram Selesai: M_N_RMA.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Berat
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+[1] Membaca rekaman: F_N_RLA.wav
+    -> ✓ Konversi Spektrogram Selesai: F_N_RLA.png
+[2] Hasil Analisis AI : Terdeteksi Anomali (Indikasi Wheezing/Ronchi/Stridor)
+[3] Tingkat Anomali   : Sedang
+[4] Skor Risiko       : Segera Periksa ke Dokter
+[5] Rekomendasi Klinis:
+   - Rujukan ke Puskesmas / Rumah Sakit terdekat.
+   - Konfirmasi lanjutan via LDCT (Low-Dose CT Scan) atau Biopsi.
+----------------------------------------
+
+================== PROSES SELESAI ==================
